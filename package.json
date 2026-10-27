@@ -1,0 +1,15 @@
+{
+  "name": "toolsocket",
+  "version": "0.1.0",
+  "description": "CLI and stdio MCP bridge for ToolSocket — 660+ data tools (TikTok, Douyin, Instagram, YouTube, X, Reddit, weather, GitHub…) for AI agents, one API key, pay per call.",
+  "type": "module",
+  "bin": { "toolsocket": "bin/toolsocket.js" },
+  "files": ["bin", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "ai-agent", "agent-tools", "claude", "cursor", "codex", "tiktok-api", "douyin", "scraping", "cli"],
+  "homepage": "https://toolsocket.top/docs",
+  "repository": { "type": "git", "url": "git+https://github.com/toolsocket/toolsocket.git" },
+  "bugs": { "url": "https://github.com/toolsocket/toolsocket/issues" },
+  "license": "MIT",
+  "mcpName": "top.toolsocket/toolsocket"
+}
