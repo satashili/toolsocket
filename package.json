@@ -37,5 +37,9 @@
     "url": "https://github.com/satashili/toolsocket/issues"
   },
   "license": "MIT",
-  "mcpName": "io.github.satashili/toolsocket"
+  "mcpName": "io.github.satashili/toolsocket",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }
