@@ -1,12 +1,12 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "top.toolsocket/toolsocket",
+  "name": "io.github.satashili/toolsocket",
   "title": "ToolSocket",
   "description": "660+ data tools for agents: TikTok, Douyin, Instagram, YouTube, X, weather, GitHub. Pay per call.",
   "version": "0.1.0",
   "websiteUrl": "https://toolsocket.top/docs",
   "repository": {
-    "url": "https://github.com/toolsocket/toolsocket",
+    "url": "https://github.com/satashili/toolsocket",
     "source": "github"
   },
   "remotes": [
